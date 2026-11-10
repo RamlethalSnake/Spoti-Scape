@@ -1,0 +1,109 @@
+{
+    "stations": [
+        {
+            "url": "https://live.leanstream.co/CFOXFM-MP3",
+            "title": "99.3 CFOX",
+            "name": "99.3 CFOX"
+        },
+        {
+            "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+            "title": "Qmusic NL",
+            "name": "Qmusic NL"
+        },
+        {
+            "url": "https://ice2.somafm.com/missioncontrol-128-mp3",
+            "title": "Mission Control",
+            "name": "SomaFM Mission Control"
+        },
+        {
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_KIIS1011.mp3",
+            "title": "KIIS 101.1",
+            "name": "KIIS 101.1"
+        },
+        {
+            "url": "https://0n-games.radionetz.de/0n-games.mp3",
+            "title": "0N Games",
+            "name": "0N Radio - Games"
+        },
+        {
+            "url": "https://0n-latin.radionetz.de/0n-latin.mp3",
+            "title": "0N Latin",
+            "name": "0N Radio - Latin"
+        },
+        {
+            "url": "https://0n-radio.radionetz.de/0n-radio.mp3",
+            "title": "0N Radio",
+            "name": "0N Radio"
+        },
+        {
+            "url": "https://stream.antenne1.de/a1stg/livestream2.mp3",
+            "title": "antenne1",
+            "name": "antenne1"
+        },
+        {
+            "url": "https://play.sas-media.ru/play_256",
+            "title": "Noise FM",
+            "name": "Noise FM"
+        },
+        {
+            "url": "https://stream.rockantenne.de/punkrock/stream/mp3",
+            "title": "Rock Antenne Punk Rock",
+            "name": "Rock Antenne Punk Rock"
+        },
+        {
+            "url": "https://stream.rockantenne.de/punkrock/stream/mp3",
+            "title": "Rock Antenne Punk Rock",
+            "name": "Rock Antenne Punk Rock"
+        },
+        {
+            "url": "https://vega.streamerr.co/listen/poppunk101/radio.mp3",
+            "title": "Pop Punk 101",
+            "name": "Pop Punk Lives On"
+        },
+        {
+            "url": "https://open.spotify.com/playlist/4rcvC2FRUKsgJ4xqzaSdBD",
+            "title": "Test",
+            "name": "Test"
+        },						
+        {
+            "url": "https://stations.fallout.radio/listen/fallout_3_-_galaxy_news_radio/radio.mp3",
+            "title": "Galaxy News - Washington DC",
+            "name": "Fallout Radio Station"
+        },				
+        {
+            "url": "https://stations.fallout.radio/listen/fallout_new_vegas_-_mojave_music_radio/radio.mp3",
+            "title": "Mojava",
+            "name": "Fallout Radio Station"
+        },				
+        {
+            "url": "https://stations.fallout.radio/listen/fallout_new_vegas_-_radio_new_vegas/radio.mp3",
+            "title": "New Vegas",
+            "name": "Fallout Radio Station"
+        },			
+        {
+            "url": "https://stations.fallout.radio/listen/fallout_new_vegas_-_radio_new_vegas/radio.mp3",
+            "title": "Black Mountain Radio",
+            "name": "Fallout Radio Station"
+        },	
+        {
+            "url": "https://stations.fallout.radio/listen/fallout_76_-_pirate_radio/radio.mp3",
+            "title": "Pirate Radio",
+            "name": "Fallout Radio Station"
+        },			
+        {
+            "url": "https://nolife-radio.com/radio/NoLife-radio.m3u",
+            "title": "No Life Radio",
+            "name": "Video Game Scores"
+        },		
+        {
+            "url": "https://stream.laut.fm/gamemusic",
+            "title": "Game Music",
+            "name": "Video Game Scores"
+        },		
+        {
+            "url": "https://video-games.stream.laut.fm/video-games?t302=2026-11-10_05-07-52&uuid=6835f810-dfff-6282-ad09-4355de8f014f",
+            "title": "Video Games",
+            "name": "Video Game Scores"
+        }			
+    ]
+}
